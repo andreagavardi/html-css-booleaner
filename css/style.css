@@ -1,3 +1,7 @@
+body{
+    box-sizing: border-box;
+}
+
 header{
     height: 180px;
     background-image: url("../img/pattern.png");
@@ -8,7 +12,8 @@ header{
     margin-top: 90px;
 }
 
-#autori{
+.text-grey{
+    
     color:gray;
     font-weight: 600;
 }
@@ -25,6 +30,7 @@ header{
     background-color: yellow;
 }
 table{
+    border-spacing: 0ch;
     text-align:justify;
 }
 thead {
@@ -37,4 +43,17 @@ td{
 }
 #row_colored{
     background-color: #b1e5f2;;
+}
+
+.img-footer {
+    margin-top: 10px;
+   padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
 }
