@@ -1,0 +1,62 @@
+body{
+    box-sizing: border-box;
+}
+.container {
+    width: 80vw;
+    margin: auto;
+}
+
+header{
+    height: 180px;
+    background-image: url("../img/pattern.png");
+    background-color: blue;
+}
+#logo{
+    height: 70px;
+    margin-top: 90px;
+}
+
+.text-grey{
+    
+    color:gray;
+    font-weight: 600;
+}
+#autori_nomi{
+    color: #2daee6;
+}
+#autori_data{
+    font-size: 12px;
+}
+#descrizione_foto {
+    font-size: 12px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+table{
+    border-spacing: 0ch;
+    text-align:justify;
+}
+thead {
+    width:100px;
+    background-color: #20a9e5;;
+    color: white;
+}
+td{
+    height: 50px;
+}
+.row_colored {
+    background-color: #b1e5f2;;
+}
+
+.img-footer {
+    margin-top: 10px;
+   padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
