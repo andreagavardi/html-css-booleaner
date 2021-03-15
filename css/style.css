@@ -41,7 +41,7 @@ thead {
 td{
     height: 50px;
 }
-#row_colored{
+.row_colored {
     background-color: #b1e5f2;;
 }
 
