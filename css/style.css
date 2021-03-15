@@ -21,6 +21,20 @@ header{
 #descrizione_foto {
     font-size: 12px;
 }
-#evidenziato{
+.evidenziato{
     background-color: yellow;
+}
+table{
+    text-align:justify;
+}
+thead {
+    width:100px;
+    background-color: #20a9e5;;
+    color: white;
+}
+td{
+    height: 50px;
+}
+#row_colored{
+    background-color: #b1e5f2;;
 }
