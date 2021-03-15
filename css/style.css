@@ -1,0 +1,23 @@
+header{
+    height: 180px;
+    background-image: url("../img/pattern.png");
+    background-color: blue;
+}
+#logo{
+    height: 70px;
+    margin-top: 90px;
+}
+
+#autori{
+    color:gray;
+    font-weight: 600;
+}
+#autori_nomi{
+    color: #2daee6;
+}
+#autori_data{
+    font-size: 12px;
+}
+#descrizione_foto {
+    font-size: 12px;
+}
