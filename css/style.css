@@ -21,3 +21,6 @@ header{
 #descrizione_foto {
     font-size: 12px;
 }
+#evidenziato{
+    background-color: yellow;
+}
